@@ -1,0 +1,14 @@
+TODO.md
+Test1.txt
+.project
+.metadata
+tmp/
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+local.properties
+.classpath
+.settings/
+.loadpath
+.factorypath
